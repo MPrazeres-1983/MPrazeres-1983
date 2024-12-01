@@ -46,7 +46,7 @@
 
 ## 📫 Entre em Contato
 - **LinkedIn**: [linkedin.com/in/mario-prazeres](https://linkedin.com/in/mario-prazeres)  
-- **X**: [x.com/Tuti_1983]((https://x.com/Tuti_1983))  
+- **X**: [x.com/Tuti_1983](https://x.com/Tuti_1983)
 - **E-mail**: marioprazeres@msn.com  
 
 ---
