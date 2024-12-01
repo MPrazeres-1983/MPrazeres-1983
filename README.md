@@ -30,8 +30,8 @@
 
 ## 🎓 Educação
 - **Licenciatura em Engenharia Informática** - Universidade Aberta  
-  Progresso:  
-  ![50%](https://progress-bar.dev/50)
+  Progresso: 50% 🔵🔵🔵⚪⚪ (3 semestres concluídos de 6)
+
 
 ## 🏆 Certificações
 - **Google Data Analytics Certificate**  
