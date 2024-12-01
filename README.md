@@ -51,4 +51,4 @@
 
 ---
 
-💡 *Aberto a colaborações em projetos de programação, análise de dados e soluções automatizadas!*
+💡 *Aberto a colaborações em projetos de programação, análise de dados e soluções automatizadas!!*
