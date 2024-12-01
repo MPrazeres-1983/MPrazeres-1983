@@ -24,18 +24,14 @@
 ---
 
 ## 📂 Projetos em Destaque
-### 1. [**Análise de Dados com Python**](https://github.com/MPrazeres-1983/analise-dados)
-- Limpeza e visualização de dados de vendas usando Pandas e Matplotlib
-- Insights apresentados em gráficos interativos
 
-### 2. [**Sistema CRUD com SQL**](https://github.com/MPrazeres-1983/sistema-crud)
-- Sistema de gestão de clientes e produtos
-- Banco de dados SQL integrado com interface Python
-
-### 3. [**Automação de Tarefas com Python**](https://github.com/MPrazeres-1983/automacao-tarefas)
-- Script que renomeia arquivos automaticamente baseado em padrões definidos pelo usuário
 
 ---
+
+## 🎓 Educação
+- **Licenciatura em Engenharia Informática** - Universidade Aberta  
+  Progresso:  
+  ![50%](https://progress-bar.dev/50)
 
 ## 🏆 Certificações
 - **Google Data Analytics Certificate**  
