@@ -30,7 +30,7 @@
 
 ## 🎓 Educação
 - **Licenciatura em Engenharia Informática** - Universidade Aberta  
-  Progresso: 50% 🔵🔵🔵⚪⚪ (3 semestres concluídos de 6)
+  Progresso: 66% 🔵🔵🔵🔵⚪ (4 semestres concluídos de 6)
 
 
 ## 🏆 Certificações
