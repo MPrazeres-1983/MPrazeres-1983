@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Mário Prazeres!
 
 🎯 **Apaixonado por Informática e Análise de Dados**  
-💻 Atualmente cursando Engenharia Informática na Universidade Aberta, com foco em **programação**, **bases de dados** e **data analytics**.  
+💻 Atualmente a frequentar o curso de Engenharia Informática na Universidade Aberta, com foco em **programação**, **bases de dados** e **data analytics**.  
 📊 Certificado em **Google Data Analytics** e habilidades práticas em **Python**, **SQL** e **R**.
 
 ---
