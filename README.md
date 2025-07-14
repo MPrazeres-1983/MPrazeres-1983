@@ -1,30 +1,24 @@
-# 👋 Olá, sou o Mário Prazeres!
+<h1 align="center">Olá, eu sou o Mário Prazeres 👋</h1>
 
-🎯 **Apaixonado por Informática e Análise de Dados**  
-💻 Atualmente a frequentar o curso de Engenharia Informática na Universidade Aberta, com foco em **programação**, **bases de dados** e **data analytics**.  
-📊 Certificado em **Google Data Analytics** e habilidades práticas em **Python**, **SQL** e **R**.
-
----
-
-## 🚀 Áreas de Interesse
-- Programação em Python e SQL
-- Desenvolvimento e gestão de bases de dados
-- Análise de dados e modelos preditivos
-- Automação de processos com scripts personalizados
+🎓 Finalista da Licenciatura em Engenharia Informática na Universidade Aberta  
+💻 Desenvolvedor Full Stack com foco em **Python**, **Flask**, **SQL** e **Análise de Dados**  
+📦 Projeto final com **19 valores**: [Meal Planner](link_para_o_repositório) – planeador de refeições web com base de dados personalizada  
+📊 Interesse especial em **bases de dados**, **automatização de processos** e **modelos de análise**
 
 ---
 
-## 🛠️ Habilidades Técnicas
+### 🛠️ Tecnologias e ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📂 Projetos em Destaque
-
+### 📌 Destaques
+- 🔥 Projeto Final: [Meal Planner]([[link_para_o_repositório](https://github.com/MPrazeres-1983/Meal-Planner)](https://github.com/MPrazeres-1983/Meal-Planner))
+- 📄 Certificações: Google Data Analytics | SQL Avançado | Python Avançado (UFCD)
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/mario-prazeres) • [Email](mailto:marioprazeres@msn.com)
 
 ---
 
