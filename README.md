@@ -50,7 +50,6 @@ Script leve em Python que extrai automaticamente:
 ### 🎓 Educação
 
 - **Licenciatura em Engenharia Informática** – Universidade Aberta  
-  Progresso: 83% 🔵🔵🔵🔵🔵⚪ (5 semestres concluídos de 6)
 
 ---
 
