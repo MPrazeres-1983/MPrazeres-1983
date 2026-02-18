@@ -3,7 +3,7 @@
 🎓 Licenciado em Engenharia Informática pela Universidade Aberta  
 💻 Desenvolvedor Backend com foco em **Python**, **Flask**, **SQL** e **Análise de Dados**  
 📦 Projeto final com **19 valores**: [Meal Planner](https://github.com/MPrazeres-1983/Meal-Planner) – aplicação web de planeamento de refeições  
-📊 Interesse especial em **bases de dados**, **automatização de processos** e **modelos de análise**
+📊 Interesse especial em **desenvolvimento**, **bases de dados**, **automatização de processos** e **modelos de análise**
 
 ---
 
