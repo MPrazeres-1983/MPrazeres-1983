@@ -39,11 +39,12 @@ Jogo educativo com interface gráfica (Tkinter) e lógica competitiva:
 
 ---
 
-#### 📰 [Scraper A Bola – Notícias Automáticas com Selenium](https://github.com/MPrazeres-1983/scraper-abola)
-Script leve em Python que extrai automaticamente:
-- Títulos, links e conteúdos das 10 notícias mais recentes do site *A Bola*
-- Preparado para expansão com data, imagens e integração em base de dados  
-📌 Projeto prático para scraping e automação com Selenium
+#### 🏗️ [Issue Tracker API – Gestão de Projetos e Bugs](https://github.com/MPrazeres-1983/issue-tracker-api)
+API RESTful robusta desenvolvida para monitorização eficiente de tarefas e resolução de bugs:
+- **Segurança:** Autenticação JWT e controlo de acessos baseado em perfis (RBAC).
+- **Qualidade:** Pipeline de CI/CD integrada com GitHub Actions e 100% de testes automatizados.
+- **Tecnologias:** Flask, SQLAlchemy, PostgreSQL e monitorização de cobertura com Codecov.  
+📌 Projeto focado em arquitetura escalável e boas práticas de desenvolvimento de APIs.
 
 ---
 
