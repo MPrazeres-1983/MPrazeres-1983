@@ -30,21 +30,21 @@ Aplicação **full stack** (Flask + PostgreSQL) para planeamento semanal de refe
 
 ---
 
-#### 🎓 [Desafio das Mentes – Jogo de Perguntas e Respostas](https://github.com/MPrazeres-1983/desafio_das_mentes)
-Jogo educativo com interface gráfica (Tkinter) e lógica competitiva:
-- Modo Solo ou Multijogador (com BOTs)
-- Dificuldade crescente, categorias variadas e som
-- Registo de recordes em JSON  
-📌 Projeto modular e didático, ideal para testar lógica e interação
-
----
-
 #### 🏗️ [Issue Tracker API – Gestão de Projetos e Bugs](https://github.com/MPrazeres-1983/issue-tracker-api)
 API RESTful robusta desenvolvida para monitorização eficiente de tarefas e resolução de bugs:
 - **Segurança:** Autenticação JWT e controlo de acessos baseado em perfis (RBAC).
 - **Qualidade:** Pipeline de CI/CD integrada com GitHub Actions e 100% de testes automatizados.
 - **Tecnologias:** Flask, SQLAlchemy, PostgreSQL e monitorização de cobertura com Codecov.  
 📌 Projeto focado em arquitetura escalável e boas práticas de desenvolvimento de APIs.
+
+---
+
+#### 🎓 [Desafio das Mentes – Jogo de Perguntas e Respostas](https://github.com/MPrazeres-1983/desafio_das_mentes)
+Jogo educativo com interface gráfica (Tkinter) e lógica competitiva:
+- Modo Solo ou Multijogador (com BOTs)
+- Dificuldade crescente, categorias variadas e som
+- Registo de recordes em JSON  
+📌 Projeto modular e didático, ideal para testar lógica e interação
 
 ---
 
