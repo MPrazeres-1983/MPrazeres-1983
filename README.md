@@ -17,8 +17,6 @@
 
 Licenciado em Engenharia Informática pela Universidade Aberta, com média final **16/20** e Projeto Final avaliado com **19/20**.  
 
-A partir de junho de 2026, inicio um estágio de 12 meses como **QA Tester na Fidelidade**, com foco em testes funcionais, testes de regressão, documentação de casos de teste, reporte de bugs e melhoria contínua da qualidade de software.
-
 Tenho uma base técnica em desenvolvimento backend, APIs, testes automatizados e LLMOps.  
 O meu foco atual é aplicar essa base à qualidade de software: validar requisitos, encontrar riscos, documentar defeitos com rigor e contribuir para sistemas mais fiáveis.
 
